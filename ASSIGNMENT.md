@@ -64,7 +64,7 @@ entry point is `SweetHome3D/src/com/eteks/sweethome3d/SweetHome3D.java`.
 Show the whole application window running on your
 machine.
 
-Suggested filename: `submissions/submissions/task1-running.png`.
+Suggested filename: `submissions/task1-running.png`.
 
 ## Task 2 — Make furniture descriptions editable
 
@@ -93,7 +93,7 @@ small change, but update any now-inaccurate documentation near it too.
 
 Show the **Modify furniture** dialog with an edited description.
 
-Suggested filename: `submissions/submissions/task2-description.png`.
+Suggested filename: `submissions/task2-description.png`.
 
 The public test checks that DESCRIPTION is reported as editable.
 

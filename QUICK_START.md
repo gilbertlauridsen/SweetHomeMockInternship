@@ -67,7 +67,7 @@ not assessed in this exercise.
 > provided screenshots were taken on a Mac.
 
 Stop the application by closing its window. Then save a screenshot as
-`submissions/task1-running.png`.
+`submissions/submissions/task1-running.png`.
 
 ## Run the feature tests
 
